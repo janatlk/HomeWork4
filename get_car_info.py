@@ -1,2 +1,2 @@
 def get_car_info(car):
-    print(Cars.create_cars.)
+    print(f'{car.t} {car.m}')
